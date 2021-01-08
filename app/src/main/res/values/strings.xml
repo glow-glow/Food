@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recipes_fragment">Recipes</string>
+    <string name="favorite_recipes_fragment">Favorite</string>
+    <string name="food_joke">Joke</string>
+    <string name="meal_type">Meal Type</string>
+    <string name="main">main</string>
+    <string name="said_dish">said dish</string>
+    <string name="dessert">dessert</string>
+    <string name="appetizer">appetizer</string>
+    <string name="salad">salad</string>
+    <string name="bread">bread</string>
+    <string name="breakfast">breakfast</string>
+    <string name="soup">soup</string>
+    <string name="sauce">sauce</string>
+    <string name="marinade">marinade</string>
+    <string name="finger">finger</string>
+    <string name="snack">snack</string>
+    <string name="drink">drink</string>
+    <string name="diet_type">Diet Type</string>
+    <string name="fingerfood">fingerfood</string>
+    <string name="beverage">beverage</string>
+    <string name="side_dish">side dish</string>
+    <string name="gluten_free">gluten free</string>
+    <string name="ketogenic">ketogenic</string>
+    <string name="vegetarian">vegetarian</string>
+    <string name="vegan">vegan</string>
+    <string name="pescetarian">pescetarian</string>
+    <string name="paleo">paleo</string>
+    <string name="primal">primal</string>
+    <string name="whole30">whole30</string>
+    <string name="apply">apply</string>
+</resources>
